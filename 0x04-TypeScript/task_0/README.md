@@ -1,1 +1,3 @@
-getting started with typescript and using interfaces
+# frontend-javascript
+getting started with typescript 
+

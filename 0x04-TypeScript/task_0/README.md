@@ -1,1 +1,1 @@
-task1
+getting started with typescript and using interfaces

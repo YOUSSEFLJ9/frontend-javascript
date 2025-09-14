@@ -14,4 +14,4 @@ const teacher1: Teacher = {
     location: "London",
     contract: false
 };
-console.log(teacher1);
+console.log(teacher1); 
